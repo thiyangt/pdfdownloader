@@ -15,4 +15,5 @@ return(all.web.addresses)
 
 }
 #'@examples
-#'get_addresses("http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=148&Itemid=449&lang=en")
+#'ad.list <- get_addresses("http://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=148&Itemid=449&lang=en")
+#'ad.list
